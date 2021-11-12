@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PARCIAL_2.CControladora" Collapsed="true">
+    <Position X="12.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>CControladora.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PARCIAL_2.CInterfaz" Collapsed="true">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAABAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>CInterfaz.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PARCIAL_2.CPersona" Collapsed="true">
+    <Position X="4.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAEAAAABAAQAAASAAAAAwAAIAAQAABAAAAAAAAAEAAQ=</HashCode>
+      <FileName>CPersona.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="PARCIAL_2.CDocente" Collapsed="true">
+    <Position X="3" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAgAAAAAAAAAAAAAAAIAAAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>CDocente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PARCIAL_2.CAlumno" Collapsed="true">
+    <Position X="5.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAABABAAAAAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>CAlumno.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PARCIAL_2.CUniversidad" Collapsed="true">
+    <Position X="10.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAEAAAAAAAAAEAAAAAAAASAAAAEACAAYBAARQQ=</HashCode>
+      <FileName>CUniversidad.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PARCIAL_2.CComision" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="8.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgBAAAAAAQAQASUAAABAAAAAAIAAQAAAAAAAAEAAAQ=</HashCode>
+      <FileName>CComision.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Enum Name="PARCIAL_2.PCategoria" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAEAAAAAAAAAAAAAABAAQAAAAAAA=</HashCode>
+      <FileName>PCategoria.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="PARCIAL_2.PTurno" Collapsed="true">
+    <Position X="0.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAACBAAAA=</HashCode>
+      <FileName>PTurno.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
